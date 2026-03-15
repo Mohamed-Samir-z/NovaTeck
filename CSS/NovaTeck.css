@@ -791,8 +791,7 @@ footer .footer-copyright p span:hover{
     }
     header{
         height: 60px;
-        gap: 50px;
-        position: sticky;
+        gap: 50px;ج
     }
 
     header .logo{
@@ -811,6 +810,7 @@ footer .footer-copyright p span:hover{
     header nav ul{
         flex-wrap: wrap;
         font-size: .8rem;
+        justify-content: center;
     }
 
     header button {
