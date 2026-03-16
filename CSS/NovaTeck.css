@@ -791,7 +791,7 @@ footer .footer-copyright p span:hover{
     }
     header{
         height: 60px;
-        gap: 50px;ج
+        gap: 50px;
     }
 
     header .logo{
@@ -811,7 +811,7 @@ footer .footer-copyright p span:hover{
         flex-wrap: wrap;
         font-size: .8rem;
         justify-content: center;
-        gap: 5px;
+        gap: 10px;
     }
 
     header button {
