@@ -928,6 +928,10 @@ footer .footer-copyright p span:hover{
         width: 80%;
     }
 
+    #about .about-container img:hover{
+    transform: scale(1.2);
+}
+
     #about .stats-container{
         display: flex;
         flex-direction: column;
