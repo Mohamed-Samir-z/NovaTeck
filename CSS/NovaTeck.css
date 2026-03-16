@@ -810,8 +810,8 @@ footer .footer-copyright p span:hover{
     header nav ul{
         flex-wrap: wrap;
         font-size: .8rem;
-        justify-content: center;
-        gap: 10px;
+        justify-content: space-between
+        gap: 5px;
     }
 
     header button {
