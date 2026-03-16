@@ -811,7 +811,7 @@ footer .footer-copyright p span:hover{
         flex-wrap: wrap;
         font-size: .8rem;
         justify-content: space-between;
-        gap: 10px;
+        gap: 4px;
     }
 
     header button {
